@@ -1,10 +1,19 @@
 <?php
-/*
-Plugin Name: Woolocat
-Description: A comprehensive WooCommerce order location analytics plugin with heat maps, clustering, and weather impact analysis
-Version: 1.7
-Author: Asif AMod
-*/
+/**
+ * Plugin Name: Woolocat
+ * Plugin URI: https://github.com/abukhawlah/woolocat
+ * Description: WooCommerce Order Location Analytics - Track and analyze your orders with advanced mapping features
+ * Version: 1.7.2
+ * Author: Abu Khawlah
+ * Author URI: https://github.com/abukhawlah
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: woolocat
+ * Domain Path: /languages
+ * Requires at least: 5.0
+ * Requires PHP: 7.2
+ * WC requires at least: 3.0
+ */
 
 // Prevent direct access to this file
 if (!defined('ABSPATH')) {

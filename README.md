@@ -1,6 +1,6 @@
 # Woolocat - WooCommerce Order Location Analytics
 
-Version: 1.0.0  
+Version: 1.7.2  
 Last Updated: January 2, 2025  
 Requires WordPress: 5.0 or higher  
 Requires WooCommerce: 3.0 or higher  
@@ -42,15 +42,26 @@ Woolocat is a powerful WooCommerce plugin that provides advanced order location 
 
 ## Recent Updates
 
-### Version 1.0.0 (January 2, 2025)
-- Initial release with core features
+### Version 1.7.2 (January 2, 2025)
+- Fixed View Orders button functionality
+- Added proper CSP headers for Google Maps
+- Improved script loading and initialization
+- Enhanced error handling and logging
+- Fixed distance calculation issues
+- Added weather impact analysis
+- Improved modal display and styling
+
+### Version 1.7.1 (Previous)
 - Added heatmap visualization
 - Implemented customer clustering
-- Added order details modal
-- Fixed distance calculation issues
-- Improved Google Maps integration
-- Added weather impact analysis
-- Enhanced security with proper CSP headers
+- Enhanced map controls
+- Added export functionality
+
+### Version 1.7.0 (Initial)
+- Core map functionality
+- Order location tracking
+- Distance calculations
+- Basic analytics
 
 ## Known Issues
 - Weather data may occasionally take longer to load
